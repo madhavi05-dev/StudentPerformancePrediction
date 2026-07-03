@@ -2,7 +2,7 @@
 
 **Internship Project | Data Pro Organisation**  
 **Intern:** G.MADHAVI | Reg. No: 24U45A4208
-**Faculty Guide:** Mrs. M. KALYANI | Dept. of CSE-AIML, JNTUGV  
+**Faculty Guide:** Mrs. G. CHANDRIKA | Dept. of CSE-AIML, JNTUGV  
 **Duration:** 13-04-2026 to 23-05-2026  
 
 ---
