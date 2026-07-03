@@ -1,7 +1,7 @@
 # Student Performance Prediction Using ML
 
 **Internship Project | Data Pro Organisation**  
-**Intern:** SEERAPU SRAVANI G.MADHAVI | Reg. No: 24U45A4219 24U45A4208
+**Intern:** G.MADHAVI | Reg. No: 24U45A4208
 **Faculty Guide:** Mrs. M. KALYANI | Dept. of CSE-AIML, JNTUGV  
 **Duration:** 13-04-2026 to 23-05-2026  
 
